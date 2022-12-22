@@ -70,8 +70,8 @@
     "modelo": "Renault Zoe",
     "bateria": "52kwh",
     "autonomia": "377Km",
-    "preco" "preco": "R$ 239.990,00",
-    "potencia""potencia": "135cv",
+    "preco": "R$ 239.990,00",
+    "potencia": "135cv",
     "recarga": "7 horas",
     "km_por_kwh": 7.25,
     "urlPhoto": "https://github.com/RafaelFdSouza/api-eletric-cars/blob/main/renault_zoe.png"    
