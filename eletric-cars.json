@@ -49,7 +49,7 @@
     "bateria": "30kwh",
     "autonomia": "302km",
     "preco": "R$159.900,00",
-    "potencia""potencia": "62cv",
+    "potencia": "62cv",
     "recarga": "12 horas",
     "km_por_kwh": 10.0,
     "urlPhoto": "https://github.com/RafaelFdSouza/api-eletric-cars/blob/main/Jac_EJS1.png"    
