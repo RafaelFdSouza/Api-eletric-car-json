@@ -1,5 +1,4 @@
-[
-  {
+[{
     "id": 1,
     "modelo": "Nissan Leaf",
     "bateria": "40kwh",
@@ -109,5 +108,4 @@
     "recarga": "8 horas",
     "km_por_kwh": 4.5,
     "urlPhoto": "https://github.com/RafaelFdSouza/api-eletric-cars/blob/main/audi_etron.png"    
-  }
-]
+  }]
